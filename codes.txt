@@ -1,1 +1,8 @@
 git status == to check if there is any modification with respective to previous commit
+git add <> == * or file name to add the file to commit
+git commit -a == to add file to commit 
+git commit -m == commit files with message
+git diff == without file name compares all the difference , with filename only the changes made in 
+            that file , untracked files cannot be used with git diff , only modified
+
+//Simply adding this change
