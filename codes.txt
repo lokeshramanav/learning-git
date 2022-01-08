@@ -6,3 +6,4 @@ git diff == without file name compares all the difference , with filename only t
             that file , untracked files cannot be used with git diff , only modified
 git branch == will list only the local branches
 git branch -a == list local and remote branches
+git branch -m == rename branch

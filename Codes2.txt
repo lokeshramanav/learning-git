@@ -1,1 +1,3 @@
 //randomly creating new file
+
+https://giuliachiola.dev/posts/oh-my-zsh-git-plugin-cheatsheet/
