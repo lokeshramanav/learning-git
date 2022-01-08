@@ -1,0 +1,6 @@
+//LEARNING GIT
+
+//PERFECT COMMIT MESSAGE
+    - commit by topics
+    - dont cram all changes into a single commit
+    
